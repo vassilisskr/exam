@@ -10,4 +10,3 @@ for x in lekseis:
         nea_leksi=leksi+prwto_gramma+"ay"
         nea_leksi=nea_leksi[1:len(nea_leksi)]
         print nea_leksi
-#τα print στις γραμμές 3 και 5 είναι προαιρετικά και τα έβαλα για έλεγχο 
